@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋煩い",
+  "base_artist": "リュックと添い寝ごはん",
+  "createdAt": "2026-01-13T16:01:51.697497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/01_恋煩い_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "Hiromi",
+      "has_synced": false,
+      "path": "select/02_恋煩い_Hiromi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/03_恋煩い_あれくん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋煩い",
+      "artist": "リュックと添い寝ごはん",
+      "has_synced": false,
+      "path": "select/pl_01_恋煩い_リュックと添い寝ごはん.txt"
+    }
+  ]
+}
